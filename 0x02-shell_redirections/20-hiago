@@ -1,2 +1,2 @@
 #!/bin/bash
-ts -d "cC"
+ts -d [cC]
